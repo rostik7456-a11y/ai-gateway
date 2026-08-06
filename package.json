@@ -1,7 +1,7 @@
 {
   "name": "ai-gateway",
-  "version": "1.0.0",
-  "description": "Бесплатный AI шлюз для Telegram бота",
+  "version": "2.0.0",
+  "description": "Multi-provider AI Gateway с ротацией",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
